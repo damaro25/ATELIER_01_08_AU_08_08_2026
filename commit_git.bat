@@ -5,7 +5,7 @@ chcp 65001 > nul
 git add .
 
 :: 4. Enregistre le premier instantané (snapshot)
-git commit -m "Traduction commit - Documents ODD Nations Unis VF"
+git commit -m "Format commit - Documents FORMAT DES TABLEAUX"
 
 
 :: 6. Envoie votre code sur GitHub et définit "main" comme branche par défaut
