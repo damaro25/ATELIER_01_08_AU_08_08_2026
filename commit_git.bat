@@ -5,7 +5,7 @@ chcp 65001 > nul
 git add .
 
 :: 4. Enregistre le premier instantané (snapshot)
-git commit -m "Plan de travail commit - Documents Plan de travail"
+git commit -m "Récodage commit - Variables à récoder"
 
 
 :: 6. Envoie votre code sur GitHub et définit "main" comme branche par défaut
