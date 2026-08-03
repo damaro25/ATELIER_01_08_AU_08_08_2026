@@ -5,7 +5,7 @@ chcp 65001 > nul
 git add .
 
 :: 4. Enregistre le premier instantané (snapshot)
-git commit -m "Calcul de la prévalence"
+git commit -m "Agenda 2063 Union africaine"
 
 
 :: 6. Envoie votre code sur GitHub et définit "main" comme branche par défaut
